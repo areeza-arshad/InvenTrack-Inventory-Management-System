@@ -20,7 +20,7 @@ function App() {
       setProducts(await response.json());
       setError("");
     } catch {
-      setError("Products load nahi ho sake. Backend check karo.");
+      setError("Couldn't load products.");
     } finally {
       setLoading(false);
     }
