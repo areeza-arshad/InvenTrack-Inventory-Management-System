@@ -1,0 +1,19 @@
+# React
+node_modules/
+dist/
+
+# .NET
+bin/
+obj/
+
+# Visual Studio / VS Code
+.vs/
+.vscode/
+
+# Environment files
+.env
+.env.local
+
+# OS files
+.DS_Store
+Thumbs.db
