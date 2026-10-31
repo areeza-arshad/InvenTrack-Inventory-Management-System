@@ -90,6 +90,10 @@ npm run dev
 
 Open the local URL displayed by Vite.
 
+## Project Screenshot
+
+![InvenTrack Dashboard](InvenTrack.png)
+
 ## Author
 
 **Areeza Arshad**
